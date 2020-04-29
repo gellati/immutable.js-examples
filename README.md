@@ -12,5 +12,6 @@ A list of the folders included, and links to them.
 |[IntroductionToImmutablejs_1AITIyArG78](./IntroductionToImmutablejs_1AITIyArG78) | introduction to immutable.js |
 |[immutable_redux_vanilla_js](./immutable_redux_vanilla_js) | immutable data in react using plain javascript |
 |[immutable_redux_immutablejs](./immutable_redux_immutablejs) | immutable data in react using immutablejs |
+|[immutable_redux_immer](.immutable_redux_immer) | immutable data in react using immer |
 
 Examples are mostly based on YouTube tutorials.
